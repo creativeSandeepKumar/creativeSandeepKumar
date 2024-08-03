@@ -6,7 +6,7 @@
 
 🌐 **Location:** Muzaffarpur, Bihar, India  
 📧 **Email:** sdp4209@gmail.com  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sandeepkumarofficial/)
 
 ---
 
@@ -65,4 +65,4 @@ MERN Stack, Next.js, Tailwind CSS, Git, GitHub, Redux, MongoDB, Digital Ocean
 
 ## Contact Me
 
-Feel free to reach out via [email](mailto:sdp4209@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out via [email](mailto:sdp4209@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sandeepkumarofficial/).
