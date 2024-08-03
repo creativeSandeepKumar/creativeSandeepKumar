@@ -1,7 +1,68 @@
-### Hi there, I am Sandeep 👋
-A Front End Developer 
-- 🔭 I’m currently working as a full stack developer... 
-- 🌱 I have a list of skills - HTML, CSS, JavaScript, React, MERN stack, Tailwind Css, Redux, and others relavat skills  ...
-- 👯 I’m looking to collaborate and get experienced on my skills ...
-- 💬 Ask me about on relavant topics related to my skills. It would be great to answer you ...
-- 📫 You can find me on: likedIn, Instagram and portfolio websites  ...
+# Hi, I'm Sandeep Kumar! 👋
+
+### Full-Stack Developer | MERN Stack Enthusiast
+
+---
+
+🌐 **Location:** Muzaffarpur, Bihar, India  
+📧 **Email:** sdp4209@gmail.com  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+
+---
+
+## About Me
+
+I'm a passionate Full-Stack Developer with over a year of experience in building and deploying web applications. Skilled in the MERN stack and modern technologies, I enjoy creating efficient, user-friendly solutions and continuously learning new skills.
+
+---
+
+## Skills
+
+### Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, Next.js, React.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, GitHub, Digital Ocean, TinyMCE
+- **Languages:** Typescript, C/C++, Python
+- **Operating Systems:** Windows, Linux
+
+### Soft Skills
+
+- Strong Communication
+- Effective Problem Solving
+- Team Collaboration
+- Adaptability
+- Time Management & Organization
+
+---
+
+## Projects
+
+### [TutorBe.com](https://www.tutorbe.com) - Edtech Platform for Home Tuition Services
+
+**Overview:**  
+An edtech platform providing home tuition services, developed and deployed by me. The platform allows users to find and book home tutors, apply for jobs, read blogs, and access free classroom videos.
+
+**Features:**  
+- **Authentication:** Multi-role login/signup with email/password or OAuth (Google, Facebook, GitHub)
+- **Home Tutors:** Search/filter by name, pincode, area, subjects, or classes; book and manage teacher bookings
+- **Jobs:** Company registration, job postings, applicant management; job application with resume, track application status
+- **Blogs:** Read, create, and manage blogs with trending, recent, and popular categories
+- **Coaching:** Register, search, and apply for coaching centers
+- **Classroom Videos:** Access organized YouTube lecture videos by class, subject, and topic
+- **Admin Dashboard:** Comprehensive data overview and CRUD operations for blogs, teachers, coachings, companies, students, bookings, and users
+
+**Technologies Used:**  
+MERN Stack, Next.js, Tailwind CSS, Git, GitHub, Redux, MongoDB, Digital Ocean
+
+---
+
+## GitHub Stats
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=creativeSandeepKumar&show_icons=true&theme=radical)
+
+---
+
+## Contact Me
+
+Feel free to reach out via [email](mailto:sdp4209@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
