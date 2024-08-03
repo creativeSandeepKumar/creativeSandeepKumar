@@ -7,6 +7,7 @@
 🌐 **Location:** Muzaffarpur, Bihar, India  
 📧 **Email:** sdp4209@gmail.com  
 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sandeepkumarofficial/)
+🔗 **Resume:** [See Resume](https://drive.google.com/file/d/13Xdei9a0chsrU-PYGQSD4EiKixa7VviD/view?usp=sharing)
 
 ---
 
